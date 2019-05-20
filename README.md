@@ -20,7 +20,7 @@ You can chose you Docker image OS by selecting the branch.
 The pattern is `image/<OS>` :
 
 - `image/debian` : should contain Debian based container
-- `image/debian` : should contain Fedora based container
+- `image/fedora` : should contain Fedora based container
 - `image/ubuntu` : should contain Ubuntu based container
 
 ## Install
