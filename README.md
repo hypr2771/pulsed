@@ -87,4 +87,4 @@ Enjoy!
 
 ## Thanks to
 
-@TheBatman09 for the whole Dockerfile and the `DISPLAY` configuration
+[@TheBatman09](https://github.com/TheBatman09) for the whole Dockerfile and the `DISPLAY` configuration
